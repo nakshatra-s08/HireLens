@@ -1,0 +1,107 @@
+[
+  {
+    "id": "profile_1",
+    "name": "Candidate 1 (Backend)",
+    "expected_role": "Senior Backend Engineer",
+    "expected_skills": ["Python", "FastAPI", "Django", "PostgreSQL", "Redis", "Docker", "REST API", "Microservices", "Git"],
+    "profile_text": "My name is Alex Mercer, 29 years old, based in San Francisco. I graduated from Stanford University. I have 6 years of experience building high-performance backend systems. I specialize in Python, FastAPI, and Django, and regularly work with PostgreSQL and Redis databases. I use Docker for containerization, build REST APIs for microservices architecture, and rely on Git for version control."
+  },
+  {
+    "id": "profile_2",
+    "name": "Candidate 2 (ML/AI)",
+    "expected_role": "Machine Learning Engineer",
+    "expected_skills": ["Python", "PyTorch", "TensorFlow", "Scikit-Learn", "Pandas", "NumPy", "NLP", "LLMs", "Docker"],
+    "profile_text": "I am a Machine Learning practitioner with 4 years of hands-on experience developing deep learning models. My stack includes Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, and NumPy. I specialize in Natural Language Processing (NLP), Large Language Models (LLMs), and RAG systems. I deploy model APIs using Docker."
+  },
+  {
+    "id": "profile_3",
+    "name": "Candidate 3 (Frontend)",
+    "expected_role": "Frontend React Developer",
+    "expected_skills": ["React", "TypeScript", "Next.js", "HTML/CSS", "JavaScript", "Tailwind CSS", "GraphQL", "Figma"],
+    "profile_text": "Hello! I am a Frontend Engineer living in New York with 4 years experience creating responsive web apps. I build component libraries with React, TypeScript, Next.js, and HTML/CSS. I use Tailwind CSS for styling, GraphQL for API integration, and Figma for design collaboration."
+  },
+  {
+    "id": "profile_4",
+    "name": "Candidate 4 (DevOps)",
+    "expected_role": "DevOps & Cloud Engineer",
+    "expected_skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Linux", "CI/CD", "Ansible", "Bash/Shell", "Prometheus"],
+    "profile_text": "I have 7 years of infrastructure and cloud experience. My focus is AWS cloud services, container orchestration using Docker and Kubernetes, and infrastructure-as-code with Terraform. I manage Linux environments, build CI/CD pipelines, configure Ansible scripts, and monitor metrics using Prometheus and Grafana."
+  },
+  {
+    "id": "profile_5",
+    "name": "Candidate 5 (Data Eng)",
+    "expected_role": "Senior Data Engineer",
+    "expected_skills": ["Python", "SQL", "Apache Spark", "Airflow", "PostgreSQL", "BigQuery", "Snowflake", "Data Engineering"],
+    "profile_text": "Hi, I am a Data Engineer with 5 years experience building distributed data pipelines and ETL processes. I work extensively with Python, SQL, Apache Spark, and Apache Airflow. I manage data warehouses in BigQuery, Snowflake, and PostgreSQL."
+  },
+  {
+    "id": "profile_6",
+    "name": "Candidate 6 (Fullstack)",
+    "expected_role": "Fullstack Web Developer",
+    "expected_skills": ["Node.js", "React", "JavaScript", "TypeScript", "Express", "MongoDB", "PostgreSQL", "REST API"],
+    "profile_text": "Fullstack engineer with 4 years experience building web applications. I build backends with Node.js and Express, frontends with React and TypeScript, and handle databases like MongoDB and PostgreSQL. I construct REST APIs and use Git for teamwork."
+  },
+  {
+    "id": "profile_7",
+    "name": "Candidate 7 (Security)",
+    "expected_role": "DevOps & Cloud Engineer",
+    "expected_skills": ["Linux", "Python", "Docker", "Bash/Shell", "Git"],
+    "profile_text": "Security enthusiast with 5 years of experience in vulnerability assessment and network hardening. Skilled in Linux administration, Python security scripts, Bash/Shell automation, Docker containers, and Git."
+  },
+  {
+    "id": "profile_8",
+    "name": "Candidate 8 (Mobile)",
+    "expected_role": "Frontend React Developer",
+    "expected_skills": ["Swift", "Kotlin", "React", "JavaScript", "REST API"],
+    "profile_text": "Mobile application developer with 3 years experience. I build native applications using Swift and Kotlin, cross-platform apps with React Native, and integrate backend endpoints via REST APIs."
+  },
+  {
+    "id": "profile_9",
+    "name": "Candidate 9 (QA Engineer)",
+    "expected_role": "Senior Backend Engineer",
+    "expected_skills": ["Python", "Unit Testing", "Git", "CI/CD"],
+    "profile_text": "QA Automation Engineer with 4 years experience. I write automated test suites using Python and PyTest for unit testing and API validation. Experienced in CI/CD integration and Git version control."
+  },
+  {
+    "id": "profile_10",
+    "name": "Candidate 10 (Junior Python)",
+    "expected_role": "Senior Backend Engineer",
+    "expected_skills": ["Python", "Flask", "SQLite", "Git", "HTML/CSS"],
+    "profile_text": "Junior developer with 1 year experience building lightweight web applications. Proficient in Python, Flask framework, SQLite database, basic HTML/CSS, and Git."
+  },
+  {
+    "id": "profile_11",
+    "name": "Candidate 11 (Cloud Arch)",
+    "expected_role": "DevOps & Cloud Engineer",
+    "expected_skills": ["GCP", "Azure", "Terraform", "Docker", "Kubernetes", "Microservices", "Go"],
+    "profile_text": "Cloud Solutions Architect with 8 years experience designing multi-cloud solutions on GCP and Azure. Expert in Terraform, Docker, Kubernetes, Microservices architecture, and Go programming."
+  },
+  {
+    "id": "profile_12",
+    "name": "Candidate 12 (Database Admin)",
+    "expected_role": "Senior Data Engineer",
+    "expected_skills": ["PostgreSQL", "MySQL", "Redis", "Elasticsearch", "SQL"],
+    "profile_text": "Database Administrator with 6 years experience managing relational and NoSQL databases. Expert in PostgreSQL, MySQL, Redis caching, Elasticsearch indexing, and complex SQL optimization."
+  },
+  {
+    "id": "profile_13",
+    "name": "Candidate 13 (NLP Research)",
+    "expected_role": "Machine Learning Engineer",
+    "expected_skills": ["Python", "PyTorch", "LLMs", "HuggingFace", "Scikit-Learn", "NLP"],
+    "profile_text": "AI researcher with 3 years experience focusing on Natural Language Processing (NLP). Stack: Python, PyTorch, HuggingFace transformers, LLMs, and Scikit-Learn."
+  },
+  {
+    "id": "profile_14",
+    "name": "Candidate 14 (Java Enterprise)",
+    "expected_role": "Senior Backend Engineer",
+    "expected_skills": ["Java", "Spring Boot", "PostgreSQL", "Microservices", "Docker", "REST API"],
+    "profile_text": "Enterprise Java Developer with 5 years experience building scalable backend microservices using Java, Spring Boot, PostgreSQL, Docker, and REST API."
+  },
+  {
+    "id": "profile_15",
+    "name": "Candidate 15 (Systems Eng)",
+    "expected_role": "DevOps & Cloud Engineer",
+    "expected_skills": ["C++", "Rust", "Linux", "Bash/Shell", "Git"],
+    "profile_text": "Systems programmer with 6 years experience developing performance-critical software in C++ and Rust on Linux platforms. Uses Bash/Shell scripting and Git."
+  }
+]

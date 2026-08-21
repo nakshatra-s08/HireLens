@@ -1,0 +1,33 @@
+[
+  {
+    "id": "job_backend_snr",
+    "title": "Senior Backend Engineer",
+    "department": "Engineering",
+    "description": "We are seeking a Senior Backend Engineer with 5+ years of experience building high-scale distributed systems. Required skills: Python, Django, FastAPI, PostgreSQL, Redis, Docker, REST API, Microservices, and Git. Strong problem solving and CI/CD experience is required."
+  },
+  {
+    "id": "job_ml_eng",
+    "title": "Machine Learning Engineer",
+    "description": "Looking for an ML Engineer with 3+ years experience developing AI models. Required skills: Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, NLP, LLMs, Docker, and REST API."
+  },
+  {
+    "id": "job_frontend_dev",
+    "title": "Frontend React Developer",
+    "description": "Join our product team as a Frontend Developer with 3+ years experience. Required skills: React, TypeScript, Next.js, HTML/CSS, JavaScript, Tailwind CSS, GraphQL, and Figma."
+  },
+  {
+    "id": "job_devops_arch",
+    "title": "DevOps & Cloud Engineer",
+    "description": "Seeking a Cloud Engineer with 5+ years experience managing cloud infrastructure. Required skills: AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, Ansible, Bash/Shell, and Prometheus."
+  },
+  {
+    "id": "job_fullstack_dev",
+    "title": "Fullstack Web Developer",
+    "description": "Looking for a versatile Fullstack Developer with 4+ years experience. Required skills: Node.js, React, JavaScript, TypeScript, Express, MongoDB, PostgreSQL, REST API, and Git."
+  },
+  {
+    "id": "job_data_eng",
+    "title": "Senior Data Engineer",
+    "description": "Looking for a Data Engineer with 4+ years experience building ETL pipelines. Required skills: Python, SQL, Apache Spark, Airflow, PostgreSQL, BigQuery, Snowflake, and Data Engineering."
+  }
+]

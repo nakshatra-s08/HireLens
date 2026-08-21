@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Package: RESUME-LOCAL-AI-AGENT",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "RESUME-LOCAL-AI-AGENT"
+        }
+    ]
+}
