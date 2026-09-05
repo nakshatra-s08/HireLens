@@ -21,7 +21,7 @@ from src.config import DEFAULT_LLM_MODEL
 # Page Configuration & Custom CSS
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="HireLens: Explainable AI Recruiter",
+    page_title="HireLens",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded"
