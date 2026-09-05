@@ -2,7 +2,7 @@
 
 **HireLens** is a local, privacy-preserving, and explainable AI recruitment assistant. It extracts candidate skills from conversational profiles and resume text, matches candidates against target job roles using multi-factor weighted scoring (scikit-learn TF-IDF + Cosine Similarity + Skill Coverage), provides verifiable textual evidence snippets for every match, and powers grounded local Q&A via RAG with Ollama + Llama 8B.
 
-Site link to run : https://mic-ai-recruiter-vibecoded-gv7wpwzo9vdlfuoey9bx7c.streamlit.app/
+Site link to run : https://hirelens-ragbasedmodel.streamlit.app/
 ---
 
 ## 🛡️ Fairness & Decision-Support Notice
